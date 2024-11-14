@@ -1,5 +1,7 @@
 /Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/Lab_vectors.dir
 /Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/problem3.dir
 /Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/problem_test.dir
+/Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/checkers.dir
 /Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/m.xushvaqtov/CLionProjects/Lab_vectors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
